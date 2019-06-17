@@ -6,9 +6,9 @@ Point guards play one of the most crucial roles on a team because their primary 
 
 Some of the selected columns are described below (dataset belongs to 2013 - 2014 season):
 
-player -- name of the player
-pos -- the position of the player
-g -- number of games the player was in
-pts -- total points the player scored
-fg. -- field goal percentage
-ft. -- free throw percentage
+* player -- name of the player
+* pos -- the position of the player
+* g -- number of games the player was in
+* pts -- total points the player scored
+* fg. -- field goal percentage
+* ft. -- free throw percentage
